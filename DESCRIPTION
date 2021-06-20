@@ -1,0 +1,11 @@
+Package: psav
+Type: Package
+Title: Pliable regression spline model using B-splines and auxiliary variables
+Version: 1.0.0
+Author: Jae-Kwon Oh and Jae-Hwan Jhong
+Maintainer: Jae-Kwon Oh <cort0048@gmail.com>
+Description: We conducted a study on a regression spline estimator with a few prespecified auxiliary variables. For the implementation of the proposed estimators,we adapted a coordinate descent algorithm. This was implemented by considering a structure of the sum of the residuals squared objective function determined by the B-spline and the auxiliary coefficients. We also considered an efficient stepwise knot selection algorithm based on the Bayesian information criterion.
+License: 4.0.2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
