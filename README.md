@@ -1,6 +1,7 @@
 # psav-package
 
 * abstract
+
 We conducted a study on a regression spline estimator with a few prespecified auxiliary variables.
 For the implementation of the proposed estimators, 
 we adapted a coordinate descent algorithm. This was implemented by considering a structure of the 
